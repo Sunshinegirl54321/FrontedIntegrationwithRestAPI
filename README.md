@@ -1,1 +1,1 @@
-# FrontedIntegrationwithRestAPI
+# FrontedIntegrationwithRestAP
